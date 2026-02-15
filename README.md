@@ -1,4 +1,4 @@
-
+- Corporate Data Analysis Software
 - GUI-based Corporate Data Analysis Tool built using Python, Pandas, Tkinter and Matplotlib for automated reporting and visualization.
 
 - ## 📌 Project Overview
