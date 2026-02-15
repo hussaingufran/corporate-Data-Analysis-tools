@@ -1,4 +1,3 @@
-# corporate-Data-Analysis-tools
 
 - GUI-based Corporate Data Analysis Tool built using Python, Pandas, Tkinter and Matplotlib for automated reporting and visualization.
 
