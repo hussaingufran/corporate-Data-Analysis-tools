@@ -1,6 +1,6 @@
 # Corporate Data Analysis Desktop Tool
 - GUI-based Corporate Data Analysis Tool built using Python, Pandas, Tkinter and Matplotlib for automated reporting and visualization.
-
+![image alt](https://github.com/hussaingufran/corporate-Data-Analysis-tools/blob/main/Python%20Project.png)
 - ## 📌 Project Overview
 This is a GUI-based desktop application built using Python.
 It allows users to upload CSV or Excel files and generate analytical reports without writing any code.
